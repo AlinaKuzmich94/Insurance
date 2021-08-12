@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\insurance\insurance\src\main\java\com\eis\insurance\InsuranceApplication.java
+C:\Users\User\Downloads\insurance\insurance\src\main\java\com\eis\insurance\model\dto\InsuredObjectDTO.java
+C:\Users\User\Downloads\insurance\insurance\src\main\java\com\eis\insurance\repository\PolicyRepository.java
+C:\Users\User\Downloads\insurance\insurance\src\main\java\com\eis\insurance\model\dto\ClientDTO.java
+C:\Users\User\Downloads\insurance\insurance\src\main\java\com\eis\insurance\model\Client.java
+C:\Users\User\Downloads\insurance\insurance\src\main\java\com\eis\insurance\repository\ClientRepository.java
+C:\Users\User\Downloads\insurance\insurance\src\main\java\com\eis\insurance\model\InsuredObject.java
+C:\Users\User\Downloads\insurance\insurance\src\main\java\com\eis\insurance\repository\InsuredObjectRepository.java
+C:\Users\User\Downloads\insurance\insurance\src\main\java\com\eis\insurance\model\Policy.java
+C:\Users\User\Downloads\insurance\insurance\src\main\java\com\eis\insurance\model\CoverageOptionEnum.java
+C:\Users\User\Downloads\insurance\insurance\src\main\java\com\eis\insurance\model\dto\PolicyDTO.java
+C:\Users\User\Downloads\insurance\insurance\src\main\java\com\eis\insurance\service\InsuranceService.java
+C:\Users\User\Downloads\insurance\insurance\src\main\java\com\eis\insurance\service\InsuranceServiceImpl.java
+C:\Users\User\Downloads\insurance\insurance\src\main\java\com\eis\insurance\controllers\MainController.java

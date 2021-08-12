@@ -1,0 +1,14 @@
+com\eis\insurance\InsuranceApplication.class
+com\eis\insurance\repository\InsuredObjectRepository.class
+com\eis\insurance\repository\ClientRepository.class
+com\eis\insurance\repository\PolicyRepository.class
+com\eis\insurance\model\CoverageOptionEnum.class
+com\eis\insurance\model\dto\InsuredObjectDTO.class
+com\eis\insurance\model\dto\ClientDTO.class
+com\eis\insurance\model\dto\PolicyDTO.class
+com\eis\insurance\model\Policy.class
+com\eis\insurance\model\Client.class
+com\eis\insurance\model\InsuredObject.class
+com\eis\insurance\service\InsuranceServiceImpl.class
+com\eis\insurance\controllers\MainController.class
+com\eis\insurance\service\InsuranceService.class
